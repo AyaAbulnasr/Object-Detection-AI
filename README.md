@@ -79,3 +79,10 @@ Future Improvements
 License
 https://github.com/ahmedfgad/Mask-RCNN-TF2/blob/master/LICENSE
 
+
+# README - Insects Detection using Mask R-CNN
+This code is part of insects 'object' detection to minimize the effort and losses happening in agriculture and food field. Model developed using Mask-RCNN techbnique. It also highlights challenges and opportunities in objecting it and model challenges using IP102 dataset which is my local machine capability to process the high quality images without GPU usage.
+<img width="383" alt="image" src="https://github.com/user-attachments/assets/5d1e9153-8d43-4914-b091-eab7e4e1aee6" />
+
+The project is incomplete yet.
+
